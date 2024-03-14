@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "42260331164",
+    "project_id": "samia-11824",
+    "storage_bucket": "samia-11824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42260331164:android:a35e94250dbc3599cf0b59",
+        "android_client_info": {
+          "package_name": "com.example.chitchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRmXpWQiJXmkRE8scalhMPYMizu2VB9mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42260331164:android:729ae5a31d65b414cf0b59",
+        "android_client_info": {
+          "package_name": "com.example.my_dear_one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRmXpWQiJXmkRE8scalhMPYMizu2VB9mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42260331164:android:942294561ca245e1cf0b59",
+        "android_client_info": {
+          "package_name": "com.samia.dontknow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRmXpWQiJXmkRE8scalhMPYMizu2VB9mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
